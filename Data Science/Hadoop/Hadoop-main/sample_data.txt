@@ -1,0 +1,2 @@
+1.Getting familiar with Hadoop.
+Kindly refer the document attached for clear understanding of the commands.

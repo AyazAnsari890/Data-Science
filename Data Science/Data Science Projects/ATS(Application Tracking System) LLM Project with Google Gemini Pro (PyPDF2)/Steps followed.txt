@@ -1,0 +1,40 @@
+Project Description
+1.Field to put the Job Description (JD)
+2.Upload PDF
+3.PDF to text--->processing-->Google Gemini Pro (pdf->text->api->response)
+4.Prompts Template[Multiple prompts]
+
+-------------------------------------------------------------------
+1.Open VScode, open the new terminal and select command prompt and type
+conda create -p venv python==3.10 -y
+
+2.Create files
+a. requirements.txt
+b. app.py
+c..env
+
+3. Type in the terminal
+conda activate venv/
+
+4.In the requiremnts.txt file add
+streamlit
+PyPDF2
+google.generativeai
+python-dotenv
+
+5.Type in the terminal
+pip install -r requirements.txt
+
+6.Start working in the app.py file
+
+7.We need google api for the .env file and for this we go the 
+https://makersuite.google.com/app/apikey
+and click on create API key for new Project
+the api key for us is generated and paste it into .env file.
+
+8.Start coding in the app.py
+
+9.Type in the terminal to deploy the code in the browser.
+streamlit run app.py
+
+-------------------------------------------------------------

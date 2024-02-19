@@ -1,0 +1,1 @@
+We copy the kaggle.json file in the file directory of Twitter_Sentiment_Analysis project as the twitter dataset is huge to upload it, so we read the file online through this json file and also we copy the API Command of that dataset and paste in the coalb.

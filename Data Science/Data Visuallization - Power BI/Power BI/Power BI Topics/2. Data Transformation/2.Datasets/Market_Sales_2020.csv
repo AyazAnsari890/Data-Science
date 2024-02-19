@@ -1,0 +1,70 @@
+﻿Invoice ID,Branch,City,Customer Names,Customer type,Gender,Product line,Unit price,Quantity,Date,Payment,Gross Income
+258-69-7810,C,Nay, Michael.Parker,Normal,Female,Fashion accessories,36.85,5,13-11-20,Cash,9.2125
+334-64-2006,A,Yan, Addison.Rodriguez,Member,Female,Home and lifestyle,70.32,2,07-02-20,Ewallet,7.032
+219-61-4139,C,Nay, Jacob.Thompson,Normal,Male,Electronic accessories,83.08,1,18-10-20,Ewallet,4.154
+881-41-7302,C,Nay, Hailey.Jones,Normal,Female,Fashion accessories,64.99,1,30-01-20,Credit card,3.2495
+373-09-4567,C,Nay, Elijah.Campbell,Normal,Male,Food and beverages,77.56,10,06-11-20,Ewallet,38.78
+642-30-6693,B,Man, Avery.Green,Normal,Female,Sports and travel,54.51,6,01-07-20,Ewallet,16.353
+484-22-8230,C,Nay, Zoey.Collins,Member,Female,Fashion accessories,51.89,7,08-11-20,Cash,18.1615
+830-58-2383,B,Man, Benjamin.White,Normal,Male,Home and lifestyle,31.75,4,18-04-20,Cash,6.35
+559-98-9873,A,Yan, Brooklyn.Ramirez,Member,Female,Fashion accessories,53.65,7,13-11-20,Ewallet,18.7775
+544-32-5024,C,Nay, Caleb.Mitchell,Member,Female,Food and beverages,49.79,4,07-03-20,Credit card,9.958
+318-12-0304,A,Yan, Natalie.Anderson,Normal,Male,Fashion accessories,30.61,1,07-03-20,Ewallet,1.5305
+349-97-8902,B,Man, Owen.Rivera,Member,Male,Food and beverages,57.89,2,22-04-20,Ewallet,5.789
+421-95-9805,A,Yan, Chloe.Kim,Normal,Female,Electronic accessories,28.96,1,28-12-20,Credit card,1.448
+277-35-5865,C,Nay, Tyler.Thomas,Member,Female,Food and beverages,98.97,9,13-11-20,Cash,44.5365
+789-23-8625,B,Man, Audrey.Hernandez,Member,Male,Fashion accessories,93.22,3,08-06-20,Cash,13.983
+284-54-4231,C,Nay, Ryan.Campbell,Member,Male,Sports and travel,80.93,1,03-08-20,Credit card,4.0465
+443-59-0061,A,Yan, Madelyn.Johnson,Member,Male,Food and beverages,67.45,10,25-02-20,Ewallet,33.725
+509-29-3912,A,Yan, Connor.Anderson,Member,Female,Sports and travel,38.72,9,14-09-20,Ewallet,17.424
+327-40-9673,B,Man, Arianna.Green,Member,Male,Sports and travel,72.6,6,01-02-20,Cash,21.78
+840-19-2096,C,Nay, Joshua.White,Member,Male,Electronic accessories,87.91,5,07-12-20,Ewallet,21.9775
+828-46-6863,A,Yan, Elizabeth.Mitchell,Member,Male,Food and beverages,98.53,6,10-08-20,Credit card,29.559
+641-96-3695,C,Nay, William.Campbell,Member,Female,Fashion accessories,43.46,6,07-03-20,Ewallet,13.038
+420-97-3340,A,Yan, Ava.Andrews,Normal,Female,Food and beverages,71.68,3,02-05-20,Credit card,10.752
+436-54-4512,A,Yan, Christopher.Ramirez,Member,Female,Food and beverages,91.61,1,01-03-20,Cash,4.5805
+670-79-6321,B,Man, Savannah.White,Member,Female,Home and lifestyle,94.59,7,01-08-20,Credit card,33.1065
+852-62-7105,B,Man, Michael.Rodriguez,Normal,Female,Fashion accessories,83.25,10,08-09-20,Credit card,41.625
+598-06-7312,B,Man, Scarlett.Taylor,Member,Male,Fashion accessories,91.35,1,19-12-20,Cash,4.5675
+135-13-8269,B,Man, Gabriel.Thomas,Member,Female,Food and beverages,78.88,2,16-03-20,Cash,7.888
+816-57-2053,A,Yan, Mia.Walker,Normal,Male,Sports and travel,60.87,2,23-04-20,Ewallet,6.087
+628-90-8624,B,Man, Lucas.White,Member,Male,Health and beauty,82.58,10,24-02-20,Cash,41.29
+856-66-2701,A,Yan, Charlotte.Rodriguez,Member,Male,Home and lifestyle,53.3,3,29-12-20,Ewallet,7.995
+308-39-1707,A,Yan, Mason.Parker,Normal,Female,Fashion accessories,12.09,1,19-07-20,Credit card,0.6045
+149-61-1929,A,Yan, Isabella.Anderson,Normal,Male,Sports and travel,64.19,10,31-12-20,Credit card,32.095
+589-02-8023,A,Yan, Jackson.Thomas,Member,Male,Food and beverages,83.77,2,04-11-20,Credit card,8.377
+420-04-7590,B,Man, Christopher.Perez,Member,Male,Home and lifestyle,99.7,3,31-12-20,Ewallet,14.955
+182-88-2763,B,Man, Victoria.Rodriguez,Member,Male,Food and beverages,79.91,3,14-09-20,Credit card,11.9865
+188-55-0967,B,Man, Joshua.Wright,Normal,Male,Health and beauty,66.47,10,18-05-20,Credit card,33.235
+610-46-4100,A,Yan, Emily.Thomas,Member,Male,Health and beauty,28.95,7,31-12-20,Credit card,10.1325
+318-81-2368,C,Nay, Caleb.Ramirez,Member,Female,Electronic accessories,46.2,1,18-01-20,Cash,2.31
+364-33-8584,B,Man, Elizabeth.Hernandez,Member,Female,Food and beverages,17.63,5,11-01-20,Cash,4.4075
+665-63-9737,B,Man, Gabriel.Johnson,Member,Male,Fashion accessories,52.42,3,26-08-20,Ewallet,7.863
+695-09-5146,B,Man, Lily.White,Normal,Female,Food and beverages,98.79,3,15-11-20,Ewallet,14.8185
+155-45-3814,C,Nay, Dylan.Anderson,Member,Female,Electronic accessories,88.55,8,28-09-20,Ewallet,35.42
+794-32-2436,B,Man, Sophia.Davis,Member,Male,Electronic accessories,55.67,2,17-12-20,Ewallet,5.567
+131-15-8856,C,Nay, Michael.Parker,Normal,Female,Food and beverages,72.52,8,24-09-20,Credit card,29.008
+273-84-2164,C,Nay, Addison.Rodriguez,Member,Male,Electronic accessories,12.05,5,26-03-20,Ewallet,3.0125
+706-36-6154,A,Yan, Jacob.Thompson,Member,Male,Home and lifestyle,19.36,9,08-03-20,Ewallet,8.712
+778-89-7974,C,Nay, Hailey.Jones,Normal,Male,Health and beauty,70.21,6,29-08-20,Cash,21.063
+574-31-8277,B,Man, Elijah.Campbell,Normal,Male,Fashion accessories,33.63,1,01-05-20,Cash,1.6815
+859-71-0933,C,Nay, Avery.Green,Normal,Female,Sports and travel,15.49,2,20-12-20,Cash,1.549
+740-11-5257,C,Nay, Zoey.Collins,Normal,Male,Electronic accessories,24.74,10,27-10-20,Cash,12.37
+369-82-2676,B,Man, Benjamin.White,Member,Male,Electronic accessories,75.66,5,21-09-20,Ewallet,18.915
+563-47-4072,B,Man, Brooklyn.Ramirez,Normal,Female,Health and beauty,55.81,6,31-12-20,Cash,16.743
+742-04-5161,A,Yan, Caleb.Mitchell,Member,Male,Home and lifestyle,72.78,10,19-12-20,Cash,36.39
+149-15-7606,B,Man, Natalie.Anderson,Member,Male,Sports and travel,37.32,9,18-12-20,Ewallet,16.794
+133-77-3154,B,Man, Owen.Rivera,Normal,Male,Fashion accessories,60.18,4,31-05-20,Credit card,12.036
+169-52-4504,A,Yan, Chloe.Kim,Member,Female,Electronic accessories,15.69,3,23-04-20,Credit card,2.3535
+250-81-7186,C,Nay, Tyler.Thomas,Normal,Female,Electronic accessories,99.69,1,28-05-20,Credit card,4.9845
+562-12-5430,A,Yan, Audrey.Hernandez,Member,Female,Fashion accessories,88.15,3,06-08-20,Ewallet,13.2225
+816-72-8853,A,Yan, Ryan.Campbell,Member,Female,Sports and travel,27.93,5,18-05-20,Cash,6.9825
+491-38-3499,A,Yan, Madelyn.Johnson,Member,Male,Fashion accessories,55.45,1,13-03-20,Credit card,2.7725
+322-02-2271,B,Man, Connor.Anderson,Member,Female,Sports and travel,42.97,3,23-12-20,Cash,6.4455
+842-29-4695,C,Nay, Arianna.Green,Member,Male,Sports and travel,17.14,7,16-08-20,Credit card,5.999
+725-67-2480,B,Man, Joshua.White,Member,Female,Fashion accessories,58.75,6,03-09-20,Credit card,17.625
+641-51-2661,C,Nay, Elizabeth.Mitchell,Member,Female,Food and beverages,87.1,10,23-01-20,Credit card,43.55
+714-02-3114,C,Nay, William.Campbell,Member,Female,Sports and travel,98.8,2,05-01-20,Cash,9.88
+518-17-2983,A,Yan, Ava.Andrews,Member,Female,Fashion accessories,48.63,4,08-12-20,Ewallet,9.726
+779-42-2410,B,Man, Christopher.Ramirez,Normal,Male,Food and beverages,57.74,3,19-12-20,Ewallet,8.661
+190-14-3147,B,Man, Savannah.White,Member,Female,Health and beauty,17.97,4,20-11-20,Ewallet,3.594
